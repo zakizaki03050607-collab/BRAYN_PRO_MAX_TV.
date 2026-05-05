@@ -1,0 +1,2 @@
+rootProject.name = "BRAYN_PRO_MAX_TV"
+include ':app'
